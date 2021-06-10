@@ -27,7 +27,7 @@
     "symfony/contracts": "^1.0|^2.1"
   },
   "require-dev": {
-    "dealerdirect/phpcodesniffer-composer-installer": "^0.6.2",
+    "dealerdirect/phpcodesniffer-composer-installer": "^v0.7.1",
     "escapestudios/symfony2-coding-standard": "^3.0",
     "phpunit/phpunit": "^8.0",
     "phpcompatibility/php-compatibility": "^9.3"
